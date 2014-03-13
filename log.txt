@@ -1,0 +1,25 @@
+9 sept :
+favicon had been added.
+page height issue has been fixed.
+fading effect is working in only desktop view.
+fading effect speed has been adjusted.
+
+10 sept:
+copyright tagline had been added.
+20 px fade in effect div color has been changed to white on scroll and now it is not geeting disappear.
+footer fade in time is increased.
+Meta Tags has been updated.
+Jquery slding effect of 3 divs has been modofied.(mobile stock browser problems got solve)
+fav icon has been modified. now a white circle is covering it.
+
+
+18 sept :
+endavor has been added..
+3 div separation has been increased..
+footer has been fixed..
+scroll down button has been made..
+now guide me to make scroll buttton.. I'm getting confused about it..
+
+22 sept:
+loader,
+Grayscale,

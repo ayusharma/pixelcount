@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.down,.down1 {
+	background-color:#fff;
+	height:0;
+	border:0;
+	overflow:hidden;
+}

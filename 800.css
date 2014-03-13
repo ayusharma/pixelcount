@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+.intro1{
+	height:440px;
+	overflow:hidden;
+}
+.ayush1 {
+	display:table;  /*check the width issue here later and float also*/
+	width:280px;
+	height:200px;
+	margin:auto;
+	float:none;
+	border-top-style:solid;
+	border-top-width:1px;
+	border-top-color:transparent;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-bottom-color:transparent;
+	
+}
+.ayu11 {
+	text-align:center;
+	width:100%;
+}
+.ayush {
+	width:280px;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	height:236px;
+	border-top-style:solid;
+	border-top-width:1px;
+	border-top-color:transparent;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-bottom-color:transparent;
+}
+.intro1 {
+	width:90%;
+	height:auto;
+}
+.ayush img {
+	height:200px;
+	width:200px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:36px;
+	margin-bottom:0px;
+	float:none;
+}
+.intro1 {
+	width:90%;
+	height:auto;
+}
+.talk {
+	visibility:hidden;
+}
+.talksc {
+	display:none;
+	visibility:visible;
+	background-color:#121212;
+	width:100%;
+	height:67px;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:5;
+}
+.mid {
+	width:90%;
+	height:67px;
+	background-color:#121212;
+	margin:auto;
+}
+.midi img{
+	background-color:#fff;
+	padding-top:3.5px;
+	padding-bottom:3.5px;
+	width:44.776119px;
+	height:60px;
+	margin:auto;
+	display:block;
+}
+.midi {
+	width:18%;
+	height:67px;
+	float:left;
+	overflow:hidden;
+	background-color:#fff;
+}
+.midin {
+	display:table;
+	height:67px;
+	width:82%;	
+	background-color:#121212;
+	float:left;
+}
+.midin div {
+	display:table-cell;
+	width:auto;
+	height:auto;
+	vertical-align:middle;
+	font-family: 'Amarante', cursive;
+	color:#fff;
+	font-size:14px;
+	text-align:center;
+}
+.notify {
+	height:108px;
+	background-color:#C99;
+}
+.but {
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:12px;
+	width:220px;
+}
+.text {
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:8px;
+	font-size:12px;
+}
+.notifyin {
+	padding-top:7px;
+	padding-bottom:5px;
+	height:72px;
+}
+.notify {
+	height:84px;
+	
+}
+.formin {
+	width:220px;
+	height:72px;
+}
+.notify {
+	width:75%;
+}
+.ans {
+	height:84px;
+	padding:0;
+}
