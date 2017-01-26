@@ -1,0 +1,23 @@
+{
+  "name": "pixelcount",
+  "version": "1.0.0",
+  "description": "Pixelcount Creative Labs URL: http://pixelcount.net",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayusharma/pixelcount.git"
+  },
+  "author": "Ayush Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayusharma/pixelcount/issues"
+  },
+  "homepage": "https://github.com/ayusharma/pixelcount#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "path": "0.12.7"
+  }
+}
