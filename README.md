@@ -1,5 +1,5 @@
 Pixelcount Creative Labs
-[link](https://secret-woodland-38469.herokuapp.com)
+[link](https://ayusharma.github.io/pixelcount/)
 
 A personal project and self-startup to learn, deploy new technologies to get into web designing & Live Streaming. The
 project comprises a digital ocean droplet with responsive designed website, Databases, Mail server & GNU/Linux.
